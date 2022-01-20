@@ -8,6 +8,7 @@ A handwired keyboard on a teensy 2 controller utilizing the jetvan layout and ca
 * Keyboard Maintainer: Paul Enrico N. Viola (https://github.com/PollyV1)
 * Hardware Supported: Teensy 2 controller
 * Carpolly QMK Firmware Link: https://github.com/qmk/qmk_firmware/tree/master/keyboards/handwired/carpolly
+* VIA Json File: https://github.com/PollyV1/Carpolly/blob/main/keymaps/carpolly.json
 
 * Build Details:
 * ATMEGA23U4 Controller(teensy 2): https://shopee.ph/-AmongSpring-Teensy-2.0-Usb-Avr-Development-Board-Keyboard-Mouse-Isp-U-Disk-Board-i.166453397.2919245311
